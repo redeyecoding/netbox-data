@@ -1,0 +1,9 @@
+backbone_interfaces:
+- description: LINK_TO_DEV_EDGE
+  ip: 10.99.1.1
+  mask: 255.255.255.252
+  name: GigabitEthernet2/0
+- description: LOOPBACK99
+  ip: 172.16.1.99
+  mask: 255.255.255.255
+  name: LOOPBACK99
