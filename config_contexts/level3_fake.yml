@@ -1,6 +1,6 @@
 backbone_interfaces:
-- description: LINK_TO_DEV_CORE
-  ip: 72.15.15.1
+- description: LINK_TO_PE_EDGE
+  ip: 24.24.24.1
   mask: 255.255.255.252
   name: GigabitEthernet6/0
 - description: LINK_TO_DEV_CORE
