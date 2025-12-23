@@ -1,1 +1,13 @@
-
+backbone_interfaces:
+- description: LINK_TO_DEV_CORE
+  ip: 72.15.15.1
+  mask: 255.255.255.252
+  name: GigabitEthernet6/0
+- description: LINK_TO_DEV_CORE
+  ip: 72.15.15.1
+  mask: 255.255.255.252
+  name: GigabitEthernet5/0
+- description: INTERNET-FAKE
+  ip: 4.2.2.2
+  mask: 255.255.255.255
+  name: LOOP1
